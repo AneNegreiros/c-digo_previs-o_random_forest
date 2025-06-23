@@ -45,4 +45,5 @@ Abra o arquivo codigo_para_previsao.ipynb no Jupyter Notebook, JupyterLab ou Goo
 📬 Contato
 Este projeto foi desenvolvido por Ane Isabel N. Freitas
 📨 @contatoanefreitas
+
 ⭐ Se este projeto te ajudou, não esqueça de deixar uma estrela no repositório!
