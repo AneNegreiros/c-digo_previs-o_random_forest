@@ -1,5 +1,10 @@
 # código_previsão_random_forest
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AneNegreiros/c-digo_previs-o_random_forest/tree/main/HEAD)
+
+
+
+
+
 🔍 Previsão de Comportamento de Usuários no Chatbot com NLP e Random Forest
 Este repositório traz uma aplicação prática de Machine Learning e Processamento de Linguagem Natural (NLP) para prever o comportamento de usuários em chatbots, especialmente após falhas de entendimento ("Não Entendeu").
 
