@@ -1,5 +1,5 @@
 # código_previsão_random_forest
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AneNegreiros/c-digo_previs-o_random_forest/tree/main/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AneNegreiros/código_previsão_random_forest.ipynb/tree/main/HEAD)
 
 # 🧠 Previsão de Comportamento de Usuários no Chatbot com NLP & Random Forest
 
