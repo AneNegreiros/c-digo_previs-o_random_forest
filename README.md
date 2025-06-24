@@ -17,8 +17,7 @@ Este repositório acompanha o artigo publicado no Medium sobre **“10 passos pa
 Siga os passos abaixo para executar o projeto localmente:
 
 **Clone este repositório:**
-git clone https://github.com/AneNegreiros/c-digo_previs-o_random_forest.git
-cd c-digo_previs-o_random_forest
+git clone https://github.com/AneNegreiros/código_previsão_random_forest.ipynb
 
 **Instale as dependências:**
 pip install -r requirements.txt
